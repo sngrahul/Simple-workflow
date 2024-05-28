@@ -1,0 +1,4 @@
+<project name="First workflow" default="dist" basedir=".">
+  <description>
+    First java workflow
+  </description>
